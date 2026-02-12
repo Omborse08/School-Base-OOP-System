@@ -1,6 +1,6 @@
-# 🎓 College Management System (Java Console Project)
+# 🎓 School Management System (Java Console Project)
 
-A console-based College Management System built using core Java and Object-Oriented Programming principles.
+A console-based School Management System built using core Java and Object-Oriented Programming principles.
 
 This project demonstrates structured system design using abstraction, inheritance, composition, and encapsulation.
 
